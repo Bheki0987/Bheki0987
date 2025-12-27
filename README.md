@@ -1,72 +1,71 @@
-# 👋 Hi, I’m **Bheki Mogola**
+# 👋 Hi, I’m Bheki Mogola
 
 <p align="center">
-  <strong>📊 Data & Business Analytics </strong> &nbsp;•&nbsp;
+  <strong>📊 Data & Business Analytics</strong> &nbsp;•&nbsp;
   <strong>💻 Web Development Enthusiast</strong> &nbsp;•&nbsp;
   <strong>📈 Insight-Driven Problem Solver</strong>
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bheki-mogola/)
+[![Email](https://img.shields.io/badge/Email-bpmogola%40gmail.com-red?logo=gmail)](mailto:bpmogola@gmail.com)
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [What I Do](#what-i-do) 
+- [Tools & Technologies](#tools--technologies)
+- [How I Work](#how-i-work)
+- [Career Focus](#career-focus)
+- [Contact](#contact)
+
 ---
 
 ## 🚀 About Me
+I’m an Information Systems graduate with a strong foundation in Data and Business Analytics. I love transforming raw data into actionable insights, building interactive dashboards, and deploying web applications that make analytics accessible. My projects range from exploratory data analysis and predictive modeling to full-stack web dashboards and automated reporting pipelines.
 
-I’m a **Information System graduate** with a strong foundation in **Data and Business Analytics**, passionate about transforming **raw data into actionable insights** and building **data-powered web solutions** that support real business decisions.
-
-My GitHub showcases **end-to-end, real-world data projects**, as well as **web-based applications** that bring analytics and insights closer to users. I focus not only on technical execution, but also on **problem definition, data quality, business context, and impact**.
+My GitHub highlights end-to-end data projects (data collection → cleaning → modeling → visualization) and web apps that present insights in a user-friendly way.
 
 ---
 
 ## 🔍 What I Do
-
-- 📊 **Data Analytics & Visualization** – converting complex datasets into decision-ready insights  
-- 🧠 **Business Analysis** – translating business requirements into structured data solutions  
-- ⚙️ **Data Cleaning & Preparation** – working with raw, messy, real-world datasets  
-- 📈 **Data Storytelling** – communicating insights clearly to technical and non-technical stakeholders  
-- 💻 **Web Development** – building web applications and dashboards that bring data to life  
+- 📊 Data analytics & visualization — exploratory analysis, dashboards, charts, and actionable insights  
+- 🧠 Business analysis — requirements gathering, KPIs, and translating business problems into data solutions  
+- ⚙️ Data cleaning & preparation — ETL pipelines, feature engineering, and data validation  
+- 📈 Data storytelling — presentations and reports tailored to technical and non-technical audiences  
+- 💻 Web development — building responsive frontends and integrating analytics via APIs
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 ### 📊 Data & Analytics
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ **SQL** (joins, aggregations, analytical queries)  
-- 📑 **Excel** (advanced formulas, financial analysis, dashboards) 
+- Python: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Plotly  
+- SQL: data modeling, joins, aggregations, window functions  
+- Excel: advanced formulas, pivot tables, dashboards
 
 ### 💻 Web Development
-- 🌐 **HTML, CSS, JavaScript**  
-- ⚛️ **Frontend Development** (responsive, data-driven interfaces)  
-- 🔗 **APIs & Data Integration** 
+- HTML, CSS, JavaScript, Bootstrap  
+- Frontend: React / plain JS for interactive visualizations  
+- Backend & APIs: FastAPI (examples in projects)
 
 ### 🔧 Other
-- 🔄 **Git & GitHub** (version control, collaboration, documentation)
-
+- Git & GitHub  
+- Jupyter Notebooks, VSCode
 ---
 
-## 📂 What You’ll Find on My GitHub
-
-- ✅ End-to-end **data analytics lifecycles** aligned with industry practices   
-- ✅ **Web-based analytics dashboards & applications**  
-- ✅ Clean, structured, and well-documented repositories  
-
+## ⚙️ How I Work
+- Start with business objectives and success metrics (KPIs).  
+- Do exploratory analysis and quick visual checks to validate hypotheses.  
+- Build models or aggregated views iteratively and validate with stakeholders.  
+- Deliver dashboards, reproducible notebooks, and (where relevant) simple web apps for consumption.
 ---
 
 ## 🎯 Career Focus
+I’m actively pursuing roles such as:
+- Data Analyst • Business Analyst • Junior Data Scientist • Analytics / Tech Graduate
 
-I am actively building toward and pursuing roles such as:
-
-> **📊 Data Analyst** • **📈 Business Analyst** • **🧠 Junior Data Scientist** • **🎓 Analytics / Tech Graduate**
-
-I value **clarity of thinking**, **continuous learning**, and **using data & technology to solve meaningful real-world problems**.
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 **LinkedIn:** *https://www.linkedin.com/in/bheki-mogola/* 
-- 📧 **Email:** **bpmogola@gmail.com**
-
----
+I value clarity, continuous learning, and using data to solve meaningful real-world problems.
 
 <p align="center">
   💡 <em>“Data creates value when it leads to understanding, better decisions, and meaningful impact.”</em>
