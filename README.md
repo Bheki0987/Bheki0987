@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Bheki Mogola**
 
 <p align="center">
-  <strong>📊 Data & Business Analytics Graduate</strong> &nbsp;•&nbsp;
+  <strong>📊 Data & Business Analytics </strong> &nbsp;•&nbsp;
   <strong>💻 Web Development Enthusiast</strong> &nbsp;•&nbsp;
   <strong>📈 Insight-Driven Problem Solver</strong>
 </p>
