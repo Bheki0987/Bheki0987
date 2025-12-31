@@ -37,7 +37,7 @@ This GitHub profile showcases **end-to-end analytics projects**, from data colle
 - **Excel**: Pivot tables, dashboards, advanced formulas  
 
 ### 📈 Visualization & Reporting
-- Power BI (projects & concepts)  
+- Tableau (projects & concepts)  
 - Matplotlib / Seaborn  
 - Business-focused dashboards and reports  
 
