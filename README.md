@@ -14,7 +14,7 @@
 ## 📌 About Me
 I’m an **Information Systems graduate** with a strong focus on **Data Analytics and Business Analysis**. I specialize in transforming raw, complex data into **clear, actionable insights** that support business decision-making.
 
-My work focuses on understanding business problems, translating them into analytical questions, applying data analysis techniques, and communicating insights through dashboards and reports.
+In addition to traditional analytics, I actively leverage **Generative AI tools (ChatGPT, Google Gemini)** to enhance analytical workflows, improve documentation quality, accelerate insight generation, and support stakeholder communication.
 
 This GitHub profile showcases **end-to-end analytics projects**, from data collection and cleaning to analysis, visualization, and insight delivery.
 
@@ -26,7 +26,7 @@ This GitHub profile showcases **end-to-end analytics projects**, from data colle
 - ⚙️ **Data Cleaning & Preparation** — data validation, transformation, feature engineering, and structured datasets  
 - 📈 **Data Storytelling** — clear reports and presentations for technical and non-technical stakeholders  
 - 🗄️ **SQL & Data Modeling** — relational modeling, joins, aggregations, and analytical queries  
-
+- 🤖 **Generative AI–Assisted Analytics** — prompt engineering, AI-assisted analysis, documentation, and automation support  
 ---
 
 ## 🛠️ Tools & Technologies
@@ -35,6 +35,11 @@ This GitHub profile showcases **end-to-end analytics projects**, from data colle
 - **Python**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
 - **SQL**: MySQL / PostgreSQL, complex queries, views, analytics logic  
 - **Excel**: Pivot tables, dashboards, advanced formulas  
+
+### 🤖 Generative AI & Productivity
+- ChatGPT (analytics workflows, prompt engineering, documentation)
+- Google Gemini (documentation, image generation, communication)
+- AI-assisted reporting and insight summarization
 
 ### 📈 Visualization & Reporting
 - Tableau (projects & concepts)  
@@ -50,10 +55,12 @@ This GitHub profile showcases **end-to-end analytics projects**, from data colle
 
 ## ⚙️ How I Work
 1. Define **business objectives and KPIs**  
-2. Perform **exploratory data analysis** to understand patterns and risks  
-3. Clean, transform, and model data for analysis  
-4. Validate findings against business logic  
-5. Deliver **actionable insights** via dashboards, reports, or presentations  
+2. Translate problems into **data and analytical requirements**  
+3. Perform **exploratory data analysis** to understand patterns and risks  
+4. Clean, transform, and model data for analysis  
+5. Use **Generative AI responsibly** to enhance reasoning, documentation, and communication  
+6. Validate insights against business logic  
+7. Deliver **actionable insights** via dashboards, reports, or presentations  
 
 ---
 
@@ -64,8 +71,8 @@ I’m actively pursuing opportunities in:
 - **Junior Data Scientist**  
 - **Analytics / Tech Graduate Programmes**
 
-I value clarity, continuous learning, and using data to solve **real-world business problems**.
+I value clarity, continuous learning, and using **data + AI** to solve real-world business problems.
 
 <p align="center">
-  💡 <em>“Data only matters when it improves understanding and decision-making.”</em>
+  💡 <em>“Data creates insight. AI accelerates understanding. Decisions create value.”</em>
 </p>
