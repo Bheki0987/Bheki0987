@@ -18,7 +18,7 @@
 ---
 
 ## 📌 About Me
-I am a recent **BCom Information Systems graduate** from North-West University with a passion for turning "messy" data into clear, actionable business insights. I recently became an **Oracle Analytics Cloud 2025 Certified Professional**, and I’m focused on building a career where I can bridge the gap between technical data and business needs.
+I am a recent **BCom Information Systems graduate** from North-West University with a passion for turning "messy" data into clear, actionable business insights. I’m focused on building a career where I can bridge the gap between technical data and business needs.
 
 I enjoy the challenge of finding patterns in data and using those findings to help businesses make better decisions. I also actively use **Generative AI (ChatGPT, Google Gemini)** to speed up my coding, improve my project documentation, and learn new analytical techniques faster.
 
