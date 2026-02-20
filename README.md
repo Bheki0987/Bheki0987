@@ -1,76 +1,86 @@
 # 👋 Hi, I’m Bheki Mogola
 
 <p align="center">
-  <strong>📊 Data Analyst</strong> &nbsp;•&nbsp;
-  <strong>📈 Business Intelligence Analyst</strong> &nbsp;•&nbsp;
-  <strong>🧠 Insight-Driven Problem Solver</strong>
+  <strong>📊 Aspiring Data & Business Intelligence Analyst</strong> • 
+  <strong>🎓 Information Systems Graduate</strong> • 
+  <strong>🧠 Logical Problem Solver</strong>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/bheki-mogola/)
-[![Email](https://img.shields.io/badge/Email-bpmogola%40gmail.com-red?logo=gmail)](mailto:bpmogola@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bheki-mogola/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:bpmogola@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bpmogola%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## 📌 About Me
-I’m an **Information Systems graduate** with a strong focus on **Data Analytics and Business Intelligence Analysis**. I specialize in transforming raw, complex data into **clear, actionable insights** that support business decision-making.
+I am a recent **BCom Information Systems graduate** from North-West University with a passion for turning "messy" data into clear, actionable business insights. I recently became an **Oracle Analytics Cloud 2025 Certified Professional**, and I’m focused on building a career where I can bridge the gap between technical data and business needs.
 
-In addition to traditional analytics, I actively leverage **Generative AI tools (ChatGPT, Google Gemini)** to enhance analytical workflows, improve documentation quality, accelerate insight generation, and support stakeholder communication.
+I enjoy the challenge of finding patterns in data and using those findings to help businesses make better decisions. I also actively use **Generative AI (ChatGPT, Google Gemini)** to speed up my coding, improve my project documentation, and learn new analytical techniques faster.
 
-This GitHub profile showcases **end-to-end analytics projects**, from data collection and cleaning to analysis, visualization, and insight delivery.
+> This GitHub profile is a collection of my **hands-on projects**, showing how I handle data from start to finish—from cleaning and SQL queries to building dashboards that tell a story.
 
 ---
 
-## 🔍 What I Do
-- 📊 **Data Analysis & Business Intelligence** — exploratory data analysis (EDA), dashboards, trend analysis, and insight generation  
-- 🧠 **Business Analysis** — requirements gathering, KPI definition, business rules, and problem-to-data translation  
-- ⚙️ **Data Cleaning & Preparation** — data validation, transformation, feature engineering, and structured datasets  
-- 📈 **Data Storytelling** — clear reports and presentations for technical and non-technical stakeholders  
-- 🗄️ **SQL & Data Modeling** — relational modeling, joins, aggregations, and analytical queries  
-- 🤖 **Generative AI–Assisted Analytics** — prompt engineering, AI-assisted analysis, documentation, and automation support  
+## 🔍 What I Bring to the Table
+
+### 📊 Data & BI Analysis
+* **Exploratory Data Analysis (EDA):** Digging into datasets to find trends, risks, and opportunities.
+* **Visual Storytelling:** Creating dashboards that make complex numbers easy for anyone to understand.
+* **KPI Focused:** Understanding that data is only useful if it helps measure and achieve business goals.
+
+### 🧠 Business Analysis Skills
+* **Problem-to-Data Translation:** Taking a business question and figuring out exactly what data is needed to answer it.
+* **Requirements Gathering:** Working to understand what stakeholders actually need from a report or tool.
+* **Logical Thinking:** Ensuring data models follow clear business rules and provide accurate results.
+
+### ⚙️ Data Preparation
+* **Data Cleaning:** Using Python and SQL to fix inconsistencies and prepare datasets for analysis.
+* **SQL Queries:** Comfortable writing joins, aggregations, and subqueries to pull the right information.
+
 ---
 
 ## 🛠️ Tools & Technologies
 
-### 📊 Data & Analytics
-- **Python**: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-- **SQL**: MySQL / PostgreSQL, complex queries, views, analytics logic  
-- **Excel**: Pivot tables, dashboards, advanced formulas  
+### 📂 Analytics & Programming
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn (For analysis and visualization).
+* **SQL:** MySQL / PostgreSQL (Relational modeling and analytical queries).
+* **Excel:** Advanced formulas, Pivot Tables, and Power Query.
 
-### 🤖 Generative AI & Productivity
-- ChatGPT (analytics workflows, prompt engineering, documentation)
-- Google Gemini (documentation, image generation, communication)
-- AI-assisted reporting and insight summarization
+### 🤖 AI for Productivity
+* **GenAI Tools:** Using ChatGPT and Gemini for prompt engineering, debugging code, and drafting clear reports.
 
 ### 📈 Visualization & Reporting
-- Tableau (projects & concepts)  
-- Matplotlib / Seaborn  
-- Business-focused dashboards and reports  
-
-### 🔧 Workflow & Tools
-- Git & GitHub  
-- Jupyter Notebooks  
-- VS Code  
+* **BI Tools:** Tableau & Oracle Analytics Cloud (Designing interactive dashboards).
+* **Workflow:** Git/GitHub, Jupyter Notebooks, and VS Code.
 
 ---
 
-## ⚙️ How I Work
-1. Define **business objectives and KPIs**  
-2. Translate problems into **data and analytical requirements**  
-3. Perform **exploratory data analysis** to understand patterns and risks  
-4. Clean, transform, and model data for analysis  
-5. Use **Generative AI responsibly** to enhance reasoning, documentation, and communication  
-6. Validate insights against business logic  
-7. Deliver **actionable insights** via dashboards, reports, or presentations  
+## ⚙️ My Project Workflow
+When I tackle a project, I follow a simple, logical process:
+1. **Define the Goal:** What business question am I trying to answer?
+2. **Get & Clean Data:** Pulling data with SQL and cleaning it with Python/Excel.
+3. **Analyze:** Finding the "why" behind the numbers.
+4. **Enhance with AI:** Using AI to double-check my logic, optimize my code, and document my work.
+5. **Visualize:** Building a dashboard or report that shows the solution clearly.
 
 ---
 
 ## 🎯 Career Focus
-I’m actively pursuing opportunities in:
-- **Data Analyst**  
-- **Business Intelligence Analyst**  
-- **Junior Data Scientist**  
-I value clarity, continuous learning, and using **data + AI** to solve real-world business problems.
+I’m looking for opportunities to grow and contribute as a:
+* **Junior Data Analyst**
+* **Business Intelligence Analyst**
+* **Junior Business Analyst**
 
 <p align="center">
   💡 <em>“Data creates insight. AI accelerates understanding. Decisions create value.”</em>
+</p>
+
+---
+<p align="center">
+  Learning every day. Building one project at a time.
 </p>
