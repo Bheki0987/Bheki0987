@@ -13,6 +13,9 @@
   <a href="mailto:bpmogola@gmail.com">
     <img src="https://img.shields.io/badge/Email-bpmogola%40gmail.com-red?style=flat-square&logo=gmail" alt="Email">
   </a>
+  <a href="https://bhekimogola.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=flat-square&logo=netlify" alt="Portfolio">
+  </a>
 </p>
 
 ---
@@ -22,7 +25,7 @@ I am a recent **BCom Information Systems graduate** from North-West University w
 
 I enjoy the challenge of finding patterns in data and using those findings to help businesses make better decisions. I also actively use **Generative AI (ChatGPT, Google Gemini)** to speed up my coding, improve my project documentation, and learn new analytical techniques faster.
 
-> This GitHub profile is a collection of my **hands-on projects**, showing how I handle data from start to finish—from cleaning and SQL queries to building dashboards that tell a story.
+> This GitHub profile is a collection of my **hands-on projects**, showing how I handle data from start to finish, from data cleaning and SQL modeling to statistical analysis and BI dashboarding that tell a story.
 
 ---
 
@@ -37,6 +40,11 @@ I enjoy the challenge of finding patterns in data and using those findings to he
 * **Problem-to-Data Translation:** Taking a business question and figuring out exactly what data is needed to answer it.
 * **Requirements Gathering:** Working to understand what stakeholders actually need from a report or tool.
 * **Logical Thinking:** Ensuring data models follow clear business rules and provide accurate results.
+
+### 🧮 Quantitative Foundation
+* **Statistical Inference:** Applying hypothesis testing, p-values, and confidence intervals to validate findings.
+* **Probability & Risk:** Using probability distributions to model business uncertainty and risks.
+* **Linear Algebra & Calculus:** Leveraging mathematical foundations for data transformation, optimization, and understanding machine learning logic.
 
 ### ⚙️ Data Preparation
 * **Data Cleaning:** Using Python and SQL to fix inconsistencies and prepare datasets for analysis.
@@ -64,9 +72,10 @@ I enjoy the challenge of finding patterns in data and using those findings to he
 When I tackle a project, I follow a simple, logical process:
 1. **Define the Goal:** What business question am I trying to answer?
 2. **Get & Clean Data:** Pulling data with SQL and cleaning it with Python/Excel.
-3. **Analyze:** Finding the "why" behind the numbers.
-4. **Enhance with AI:** Using AI to double-check my logic, optimize my code, and document my work.
-5. **Visualize:** Building a dashboard or report that shows the solution clearly.
+3. **Validate:** Apply Statistical Inference to ensure data integrity and significance.
+4. **Analyze:** Finding the "why" behind the numbers.
+5. **Enhance with AI:** Using AI to double-check my logic, optimize my code, and document my work.
+6. **Visualize:** Building a dashboard or report that shows the solution clearly.
 
 ---
 
