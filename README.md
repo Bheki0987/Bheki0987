@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Bheki Mogola
 
 <p align="center">
-  <strong>📊 Aspiring Data & Business Intelligence Analyst</strong> • 
+  <strong>📊 Data & Business Intelligence Analyst</strong> • 
   <strong>🎓 Information Systems Graduate</strong> • 
   <strong>🧠 Logical Problem Solver</strong>
 </p>
