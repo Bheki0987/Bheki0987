@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>📊 Data & Business Intelligence Analyst</strong> • 
-  <strong>🎓 Information Systems Graduate</strong> • 
+  <strong>🎓 Information Systems Graduate</strong> 
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 ## 📌 About Me
 I am a recent **BCom Information Systems graduate** from North-West University with a passion for turning "messy" data into clear, actionable business insights. I’m focused on building a career where I can bridge the gap between technical data and business needs.
 
-I enjoy the challenge of finding patterns in data and using those findings to help businesses make better decisions. I also actively use **Generative AI (ChatGPT, Google Gemini)** to speed up my coding, improve my project documentation, and learn new analytical techniques faster.
+I enjoy the challenge of finding patterns in data and using those findings to help businesses make better decisions. I also actively use **Generative AI (ChatGPT, Google Gemini and Claude)** to speed up my coding, improve my project documentation, and learn new analytical techniques faster.
 
 > This GitHub profile is a collection of my **hands-on projects**, showing how I handle data from start to finish, from data cleaning and SQL modeling to statistical analysis and BI dashboarding that tell a story.
 
@@ -59,10 +59,10 @@ I enjoy the challenge of finding patterns in data and using those findings to he
 * **Excel:** Advanced formulas, Pivot Tables, and Power Query.
 
 ### 🤖 AI for Productivity
-* **GenAI Tools:** Using ChatGPT and Gemini for prompt engineering, debugging code, and drafting clear reports.
+* **GenAI Tools:** Using ChatGPT, Gemini and Claude for prompt engineering, debugging code, and drafting clear reports.
 
 ### 📈 Visualization & Reporting
-* **BI Tools:** Tableau & Oracle Analytics Cloud (Designing interactive dashboards).
+* **BI Tools:** Tableau (Designing interactive dashboards).
 * **Workflow:** Git/GitHub, Jupyter Notebooks, and VS Code.
 
 ---
@@ -80,7 +80,7 @@ When I tackle a project, I follow a simple, logical process:
 
 ## 🎯 Career Focus
 I’m looking for opportunities to grow and contribute as a:
-* **Junior Data Analyst**
+* **Data Analyst**
 * **Business Intelligence Analyst**
 * **Junior Business Analyst**
 
