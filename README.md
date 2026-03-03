@@ -3,7 +3,6 @@
 <p align="center">
   <strong>📊 Data & Business Intelligence Analyst</strong> • 
   <strong>🎓 Information Systems Graduate</strong> • 
-  <strong>🧠 Logical Problem Solver</strong>
 </p>
 
 <p align="center">
