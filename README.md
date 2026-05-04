@@ -40,11 +40,6 @@ I enjoy the challenge of finding patterns in data and using those findings to he
 * **Requirements Gathering:** Working to understand what stakeholders actually need from a report or tool.
 * **Logical Thinking:** Ensuring data models follow clear business rules and provide accurate results.
 
-### 🧮 Quantitative Foundation
-* **Statistical Inference:** Applying hypothesis testing, p-values, and confidence intervals to validate findings.
-* **Probability & Risk:** Using probability distributions to model business uncertainty and risks.
-* **Linear Algebra & Calculus:** Leveraging mathematical foundations for data transformation, optimization, and understanding machine learning logic.
-
 ### ⚙️ Data Preparation
 * **Data Cleaning:** Using Python and SQL to fix inconsistencies and prepare datasets for analysis.
 * **SQL Queries:** Comfortable writing joins, aggregations, and subqueries to pull the right information.
@@ -78,17 +73,11 @@ When I tackle a project, I follow a simple, logical process:
 
 ---
 
-## 🎯 Career Focus
-I’m looking for opportunities to grow and contribute as a:
-* **Data Analyst**
-* **Business Intelligence Analyst**
-* **Junior Business Analyst**
-
 <p align="center">
   💡 <em>“Data creates insight. AI accelerates understanding. Decisions create value.”</em>
 </p>
 
 ---
 <p align="center">
-  Learning every day. Building one project at a time.
+  Learning every day.
 </p>
